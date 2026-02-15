@@ -182,13 +182,13 @@ I'm always interested in collaborating on innovative projects, especially those 
 
 <div align="center">
 
-**💬 Feel free to reach out for collaborations or just a friendly chat!**
+**💬 Feel free to reach out for collaborations or professional discussions.**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Email](https://img.shields.io/badge/Email-Say_Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ziyad-tber)
+[![Email](https://img.shields.io/badge/Email-Say_Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tberziad016@gmail.com)
 
 ---
 
-⭐️ From [Ziyad Tber](https://github.com/your-username)
+⭐️ From [Ziyad Tber](https://github.com/ziyad455)
 
 </div>
