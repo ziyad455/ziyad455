@@ -17,24 +17,7 @@
 
 I'm a **Software Engineering student** and **Software Engineer Intern at INVENEO**, passionate about building production-grade systems that make a real impact. My work spans from **accessible web platforms** to **AI-powered humanitarian applications**.
 
-```python
-class SoftwareEngineer:
-    def __init__(self):
-        self.name = "Ziyad Tber"
-        self.role = "Software Engineer Intern"
-        self.education = "Diploma Candidate in Software Engineering"
-        self.institution = "Specialized Institute of Applied Technology NTIC"
-        self.interests = ["AI Agents", "Machine Learning", "System Architecture"]
-        self.current_focus = "Building AI-integrated production systems"
-    
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing together.")
 
-me = SoftwareEngineer()
-me.say_hi()
-```
-
----
 
 ## 💼 Professional Experience
 
