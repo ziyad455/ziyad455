@@ -25,7 +25,7 @@ I'm a **Software Engineering student** and **Software Engineer Intern at INVENEO
 
 > *Building accessible, scalable web platforms with modern technologies*
 
-- 🌐 Developing and improving accessible web platforms using **Astro** and **Strapi**
+- 🌐 Developing and improving accessible web platforms
 - ♿ Implementing **a11y standards** to ensure inclusive user experiences
 - ⚡ Optimizing performance and usability across diverse user environments
 - 🤝 Collaborating in **agile teams** to deliver maintainable solutions
