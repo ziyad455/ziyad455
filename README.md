@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Ziyad Tber
 
-### Software Engineer Intern @ INVENEO | AI Enthusiast | Full-Stack Developer
+### Software Engineer  @ INVENEO | AI Enthusiast | Full-Stack Developer
 
 *Building scalable web systems and AI-powered applications*
 
