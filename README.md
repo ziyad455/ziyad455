@@ -1,6 +1,6 @@
 # Ziyad Tber
 
-Software Engineering student and intern at INVENEO, based in Morocco. I build web systems and AI-powered tools — mostly things that solve real problems for real people.
+Software Engineering student and intern at INVENEO, based in Morocco. I build web systems and AI-powered tools  mostly things that solve real problems for real people.
 
 ---
 
