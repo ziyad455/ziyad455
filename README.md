@@ -229,13 +229,13 @@ const ziyad = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ziyad-tber&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=e2e8f0&rank_icon=github" height="180" />
+<img src="https://github-readme-stats.vercel.app/api?username=ziyad455&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=e2e8f0&rank_icon=github" height="180" />
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziyad-tber&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=e2e8f0" height="180" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziyad455r&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=e2e8f0" height="180" />
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ziyad-tber&theme=midnight-purple&hide_border=true&background=0d1117&stroke=7c3aed&ring=a78bfa&fire=f472b6&currStreakNum=e2e8f0&sideNums=e2e8f0&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=64748b" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ziyad455&theme=midnight-purple&hide_border=true&background=0d1117&stroke=7c3aed&ring=a78bfa&fire=f472b6&currStreakNum=e2e8f0&sideNums=e2e8f0&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=64748b" />
 
 </div>
 
@@ -246,7 +246,7 @@ const ziyad = {
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ziyad-tber&bg_color=0d1117&color=a78bfa&line=7c3aed&point=f472b6&area=true&hide_border=true&area_color=7c3aed" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ziyad455&bg_color=0d1117&color=a78bfa&line=7c3aed&point=f472b6&area=true&hide_border=true&area_color=7c3aed" width="100%"/>
 
 </div>
 
