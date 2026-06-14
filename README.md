@@ -47,7 +47,7 @@ const ziyad = {
 ## 🗂️ Experience Timeline
 
 <table>
-<tr>
+<tr>  
 <td width="50%" valign="top">
 
 ### 💼 INVENEO &nbsp;·&nbsp; <sub>Software Engineer</sub>
