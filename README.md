@@ -2,7 +2,7 @@
  
 <!-- ANIMATED HEADER BANNER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Ziyad%20Tber&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20Applied%20AI%20%E2%80%A2%20Web%20Accessibility&descAlignY=60&descSize=18&animation=fadeIn" width="100%"/>
-
+  
 <!-- TYPING ANIMATION -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+accessible+%26+intelligent+web+systems;Applied+AI+%E2%80%A2+Full-Stack+%E2%80%A2+WCAG+Specialist;From+Marrakech+%F0%9F%87%B2%F0%9F%87%A6+%E2%80%94+building+for+the+world" alt="Typing SVG" />
