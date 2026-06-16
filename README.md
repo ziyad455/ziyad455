@@ -7,7 +7,7 @@
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+accessible+%26+intelligent+web+systems;Applied+AI+%E2%80%A2+Full-Stack+%E2%80%A2+WCAG+Specialist;From+Marrakech+%F0%9F%87%B2%F0%9F%87%A6+%E2%80%94+building+for+the+world" alt="Typing SVG" />
 </a>
-
+  
 <br/> 
 
 <!-- SOCIAL / CONTACT BADGES -->
