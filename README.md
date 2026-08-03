@@ -31,10 +31,8 @@
 const ziyad = {
   role:       "Software Engineer @ INVENEO",
   location:   "Marrakech, Morocco 🇲🇦",
-  focus:      ["Web Accessibility (WCAG)", "Applied AI", "Full-Stack Web"],
   building:   "talibMissions — a bilingual service marketplace (React 19 + Laravel 12)",
   mentality:  "Production stability first. Minimal footprint. Maximum impact.",
-  currently:  ["Local AI dev env with Ollama + Gemini API", "SEO audit tooling in Python"],
   openTo:     "Exciting roles at Moroccan & international tech companies",
 };
 ```
