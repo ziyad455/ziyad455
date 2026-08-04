@@ -229,7 +229,7 @@ const ziyad = {
 
 <img src="https://github-readme-stats.vercel.app/api?username=ziyad455&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=e2e8f0&rank_icon=github" height="180" />
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziyad455r&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=e2e8f0" height="180" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziyad455&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=e2e8f0" height="180" />
 
 <br/><br/>
 
