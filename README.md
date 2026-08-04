@@ -237,8 +237,6 @@ const ziyad = {
 
 </div>
 
----
-
 <!-- CONTRIBUTION GRAPH -->
 ## 🌱 Contribution Activity
 
